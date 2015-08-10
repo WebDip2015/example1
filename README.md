@@ -1,7 +1,7 @@
 # Example 1
 ## Synopsis
 
-At the top of the file top of the file top of the file etc there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+At the top of the file top of the file top of the file etc (this repetition is unnecessary) there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
 *This is an exercise example that we will be using in the 2015 Web Diploma- each student will contribute to the project*
 
