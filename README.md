@@ -45,6 +45,8 @@ Loretta Faulkner
 Daniel Maximiadis
 LF
 
+Chris Taylor
+
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
