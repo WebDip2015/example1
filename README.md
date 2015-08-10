@@ -40,11 +40,9 @@ Describe and show how to run the tests with code examples.
 Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
 *student list*
+Alex Sharpe
 
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
 *Creative Commons*
-
-## Patch by Alex
-*description of patch*
