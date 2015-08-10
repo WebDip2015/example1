@@ -41,6 +41,8 @@ Let people know how they can dive into the project, include important links to t
 
 *student list*
 
+Chris Taylor
+
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
