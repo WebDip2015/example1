@@ -42,6 +42,7 @@ Let people know how they can dive into the project, include important links to t
 *student list*
 Michael Deegan
 Loretta Faulkner
+LF
 
 ## License
 
